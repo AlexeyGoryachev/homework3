@@ -137,5 +137,6 @@ public class Main {
         int newKristyAnnInc = newKristyWage * 12;
         int increaseForKristy = newKristyAnnInc - kristyAnnualIncome;
         System.out.println("годовой доход увеличился на " + increaseForKristy);
+
     }
 }
