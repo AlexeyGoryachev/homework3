@@ -13,5 +13,6 @@ public class Main {
         System.out.println("Значение переменной с типом long = " + humans);
         System.out.println("Значение переменной с типом float = " + x);
         System.out.println("Значение переменной с типом double = " + y);
+
     }
 }
